@@ -18,7 +18,7 @@
 👨‍💻  I am passionate about Machine learning, Data Science, Deep learning & I enjoy learning new things. </br>
 
 ### Ask me about💬  
-Machine learning, Python, Arduino, Microcontrollers, Sql, C++.
+Machine learning, Deep learning, Python, Arduino, Microcontrollers, Sql, C++.
 <br/>
 
 
