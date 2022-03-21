@@ -15,7 +15,7 @@
 
 ### About Me 🚀
 🎓 I am Junior pursuing my Bachelors in Electronics and Communication Engineering. </br>
-👨‍💻  I am passionate about Machine learning, Data Science, Deep learning & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Machine learning, Data Science, Deep learning & I enjoy learning new technologies. </br>
 
 ### Ask me about💬  
 Machine learning, Deep learning, Python, Arduino, Microcontrollers, Sql, C++.
