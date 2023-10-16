@@ -1,21 +1,10 @@
-## Heya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Tanya Aggarwal!!!!
-#### Pronouns😄:She/her  
-### Connect with me📫
-
-<a href="https://www.linkedin.com/in/tanya-aggarwal13/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto:sstsagg@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.hackerrank.com/tanya_1305">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<br />
+![](https://github.com/TanyaAggrawal/TanyaAggrawal/blob/main/Untitled%20design.jpg)
+<h1 align="center">Hi , I'm Tanya Aggarwal 👋</h1>
+<h3 align="center">I am passionate about Solving Real Business Problems using Latest Technology</h3>
 
 ### About Me 🚀
-🎓 I am Junior pursuing my Bachelors in Electronics and Communication Engineering. </br>
-👨‍💻  I am passionate about Machine learning, Data Science, Deep learning & I enjoy learning new technologies. </br>
+🎓 I am Currently pursuing a Master's Degree in Information Technology At University Of Melbourne. </br>
+👨‍💻  I am enthusiatic about Machine learning, Data Science, Deep learning & I enjoy learning new technologies. </br>
 
 ### Ask me about💬  
 Machine learning, Deep learning, Python, Arduino, Microcontrollers, Sql, C++.
