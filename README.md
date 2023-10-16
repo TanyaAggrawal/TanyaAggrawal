@@ -12,11 +12,6 @@ Machine learning, Deep learning, Python, Arduino, Microcontrollers, Sql, C++.
 
 
 
-![Tanya Aggarwal's github stats](https://github-readme-stats.vercel.app/api?username=TanyaAggrawal&show_icons=true&hide_border=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TanyaAggrawal.TanyaAggrawal)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyaAggrawal&include_all_commits=true&count_private=true&show_icons=true&hide_border=true, alt="TanyaAggrawal" /></p>
 
 
 <!--
