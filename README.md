@@ -1,6 +1,6 @@
 ![](https://github.com/TanyaAggrawal/TanyaAggrawal/blob/main/Untitled%20design.jpg)
 <h1 align="center">Hi , I'm Tanya Aggarwal 👋</h1>
-<h3 align="center">I am passionate about Solving Real Business Problems using Latest Technology</h3>
+<h3 align="center">I am Passionate about Solving Real Business Problems using Latest Technology</h3>
 
 ### About Me 🚀
 🎓 I am Currently pursuing a Master's Degree in Information Technology At University Of Melbourne. </br>
