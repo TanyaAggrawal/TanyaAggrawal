@@ -3,7 +3,7 @@
 <h3 align="center">I am Passionate about Solving Real Business Problems using Latest Technology</h3>
 
 ### About Me 🚀
-🎓 I am Currently pursuing a Master's Degree in Information Technology At University Of Melbourne. </br>
+🎓 I am Currently pursuing a Master's Degree in Information Technology At [University of Melbourne](https://www.unimelb.edu.au/) </br>
 👨‍💻  I am enthusiatic about Machine learning, Data Science, Deep learning & I enjoy learning new technologies. </br>
 
 ### Ask me about💬  
