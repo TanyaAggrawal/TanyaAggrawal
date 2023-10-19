@@ -23,14 +23,20 @@ Machine learning, Deep learning, Python, Arduino, Microcontrollers, Sql, C++.
 
 ---
 
-## 🚀 Languages and Tools:
-
+<h1 align="center">🚀 Languages and Tools:</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,mysql,aws,postman,bash,docker,tensorflow,git)](https://skillicons.dev)
 
 <br>
+<br>
 
+<h1 align="center">📊 My Github Stats</h1>
 
+<p align="center">
+ 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanyaAggrawal&theme=tokyonight" />
+  </p>
+  
 <!--
 **TanyaAggrawal/TanyaAggrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
