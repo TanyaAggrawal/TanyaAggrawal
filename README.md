@@ -19,6 +19,16 @@ Machine learning, Deep learning, Python, Arduino, Microcontrollers, Sql, C++.
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="24A9knG" height="30" width="40" /></a>
 </p>
 
+<br>
+
+---
+
+## 🚀 Languages and Tools:
+
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,aws,postman,bash,docker,tensorflow,git)](https://skillicons.dev)
+
+<br>
 
 
 <!--
