@@ -25,7 +25,8 @@ Machine learning, Deep learning, Python, Arduino, Microcontrollers, Sql, C++.
 
 <h1 align="center">🚀 Languages and Tools:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,aws,postman,bash,docker,tensorflow,git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,java,mysql,aws,postman,bash,docker,tensorflow,git)](https://skillicons.dev)  
+
 
 <br>
 <br>
