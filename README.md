@@ -2,9 +2,9 @@
 <h1 align="center">Hi , I'm Tanya Aggarwal 👋</h1>
 <h3 align="center">I am Passionate about Solving Real Business Problems using Latest Technology</h3>
 
-### About Me 🚀
+### About Me  🚀
 🎓 I am Currently pursuing a Master's Degree in Information Technology At [University of Melbourne](https://www.unimelb.edu.au/) </br>
-👨‍💻  I am enthusiatic about Machine learning, Data Science, Deep learning & I enjoy learning new technologies. </br>
+👨‍💻  I am enthusiastic about Machine learning, Data Science, and Deep learning & I enjoy learning new technologies. </br>
 
 ### Ask me about💬  
 Machine learning, Deep learning, Python, Arduino, Microcontrollers, Sql, C++.
